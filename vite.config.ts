@@ -12,8 +12,8 @@ export default defineConfig({
     }
   },
   define: {
-    'process.env': {},
-    global: 'window',
+    global: 'window', // Required for Buffer in browser
+    'process.env': {}, // Prevent undefined errors
   },
   build: {
     rollupOptions: {
