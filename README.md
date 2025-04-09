@@ -106,10 +106,3 @@ Made with by Sania102
 📜 License
 This project is licensed under the MIT License — see the LICENSE file for details.
 
-yaml
-Copy
-Edit
-
----
-
-You can save this as `README.md` in the root of your project folder. Let me know if you'd like to add a deployment badge, 
